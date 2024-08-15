@@ -15,6 +15,7 @@
         padding-left: 30px !important;
         margin: 13px 0;
     }
+    
     .work-box-right {
         margin: 20px 0;
     }
@@ -39,7 +40,10 @@
         margin: 30px 0;
     }
     .work-box-left {
-        text-align: left; 
+        text-align: center; 
+    }
+    .work-box {
+        text-align: center;
     }
     #download {
         padding-top: 0;
@@ -109,7 +113,10 @@
         margin-left: 0;
     }
 
-
+    .work-box-right {
+        margin: 20px 0;
+        text-align: center;
+    }
 
 
 }
