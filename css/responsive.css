@@ -1,0 +1,121 @@
+/* @media  screen and (max-width: 991px){
+
+} */
+@media  screen and (max-width: 720px){
+    .pad-can{
+        padding: 0;
+    }
+    .about-head{
+        padding: 15px 15px;
+    }
+    i.fas.fa-bars {
+        color: #000;
+    }
+    .nav-item {
+        padding-left: 30px !important;
+        margin: 13px 0;
+    }
+    .work-box-right {
+        margin: 20px 0;
+    }
+    .about-btom{
+        display: flex;
+        justify-content: center;
+    }
+    .about-btom img{
+        width: 45%;
+        margin-right: 0;
+    }
+    .right-photo{
+        margin-left: 10PX;
+    }
+    .app-work-box {
+        display: block;
+    }
+    .title-btn {
+        width: 55%;
+    }
+    .work-box-photo img {
+        margin: 30px 0;
+    }
+    .work-box-left {
+        text-align: left; 
+    }
+    #download {
+        padding-top: 0;
+        padding-bottom: 50px ;
+    }
+    .download-main {
+        padding: 30px;
+        display: block;
+        border-radius: 7px;
+    }
+    .download-main-text {
+        width: 100%;
+    }
+    .download-main-photo{
+        display: none;
+    }
+    .download-main-text h3 {
+        font-size: 24px;
+    }
+    .about-right {
+        margin: 0 auto;
+        width: 90%;
+        margin-top: 50px;
+    }
+    .about-left {
+        padding: 0 0px;
+        margin-right: 0px; 
+    }
+    .about-left h1 {
+        font-size: 30px;
+        margin: 10px 0;
+    }
+    #footer {
+        padding-top: 35px;
+    }
+    .footer-main {
+        display: block;  
+    }
+    .social {
+        margin-top: 20px;
+    }
+    .footer-box ul li a {
+        font-size: 20px;
+    }
+    .footer-box h3{
+        font-size: 35px;
+    }
+    .footer-box{
+        margin-bottom: 30px;
+    }
+    .box-1 {
+        width: 100%;
+        padding: 0;
+    }
+    .box-2 {
+        width: 100%;
+        text-align: left; 
+        margin-left: 0;
+    }
+    .box-3 {
+        width: 100%;
+        text-align: left; 
+    }
+    .box-4 {
+        width: 100%;
+        text-align: left; 
+        margin-left: 0;
+    }
+
+
+
+
+}
+
+/* @media  screen and (max-width: 414px){
+
+
+}
+ */
